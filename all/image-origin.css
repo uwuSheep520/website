@@ -1,0 +1,38 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-image: url('image/dark blue.jpg');
+}
+a{
+    position: absolute;
+    font-size: 40px;
+    top:0;
+    left:0;
+    text-decoration: none;
+    color: aliceblue;
+}
+h1{
+    text-align: center;
+    color: aliceblue;
+    font-size: 3rem;
+}
+a:hover{
+    text-decoration: underline;
+    color:blue
+}
+.image-developer{
+    color:aliceblue;
+    font-size:3rem;
+    height:800px
+}
+.developer{
+    margin-top: 100px;
+    height:150px;
+    
+
+}
+.developer img{
+    width:25%;
+    margin-left: 300px;
+}
